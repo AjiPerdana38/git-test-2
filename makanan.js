@@ -1,0 +1,1 @@
+const makananFav = ['Bakso', 'Mie Goreng', 'Rendang']
