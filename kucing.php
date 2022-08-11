@@ -1,0 +1,2 @@
+<?php
+    $kucing = "kucing oren";
